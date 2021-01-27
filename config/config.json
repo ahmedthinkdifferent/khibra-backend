@@ -1,0 +1,9 @@
+{
+  "minPasswordLength": 6,
+  "bcryptOption": 10,
+  "userType": {
+    "student": 1,
+    "university": 2,
+    "employer": 3
+  }
+}
